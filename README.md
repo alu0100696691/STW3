@@ -6,6 +6,7 @@ Configure su propia versión del ejemplo de uso de OmniAuth en ![enlace a reposi
 Cree para ello una nueva aplicación en Google's Console con su ID de cliente y su secreto de cliente. Habilite las APIs de Google que vaya a usar.
 
 Despliegue la aplicación en Heroku. 
+* googleoauth.herokuapp.com
 
 
 See these links:
